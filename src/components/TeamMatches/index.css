@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.team-match-page {
+  background-image: linear-gradient(to top, #1e293b, #a4261d);
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.banner-container {
+  width: 800px;
+}
+.match-banner-img {
+  width: 800px;
+  height: 280px;
+}
+.latest-match-heading {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.card-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.loader-oval {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

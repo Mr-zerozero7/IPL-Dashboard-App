@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.match-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: #0f172a;
+  border-radius: 10px;
+  width: 800px;
+  height: 250px;
+  color: #ffffff;
+}
+.match-date {
+  font-size: 20px;
+  font-weight: 600;
+}
+.short-data {
+  width: 250px;
+}
+.competing-logo {
+  width: 120px;
+  height: 120px;
+}
+.competing-image-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.detail-data {
+  text-align: end;
+}
